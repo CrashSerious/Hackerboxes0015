@@ -52,16 +52,17 @@ Matrix Keyboard 4x4
 	pins (*Numbered top to bottom, *pins on the left)
 
 				4*	3*	2*	1*
-		|p|	5*	SW1	SW2	SW3	SW4	
+		|p|  	5*     SW1     SW2     SW3     SW4
 		|i|1*					
 		|n|2*					
-		|s|3*	6*	SW5	SW6	SW7	SW8
+		|s|3*	6*     SW5     SW6     SW7     SW8
 		| |4*					
 		|h|5*					
-		|e|6*	7*	SW9	SW10	SW11	SW12
+		|e|6*	7*     SW9     SW10    SW11    SW12
 		|r|7*					
 		|e|8*					
-		|!|	8*	SW13	SW14	SW15	SW16
+		|!|  	8*     SW13    SW14    SW15    SW16
+		
 
 Stereo 3.5mm Breakout
 	Datasheets
