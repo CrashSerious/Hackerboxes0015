@@ -13,10 +13,11 @@ OLED Display 0.96inch 128x64 pixels
 		????? appears to be this https://www.youtube.com/watch?v=A9EwJ7M7OsI ????
 	Helpful Instructables/Videos
 		http://www.instructables.com/id/Monochrome-096-i2c-OLED-display-with-arduino-SSD13/
-		
+				
 		http://www.instructables.com/id/How-to-use-OLED-display-arduino-module/
 		
 		https://www.youtube.com/watch?v=A9EwJ7M7OsI
+
 	Libraries
 		https://github.com/adafruit/Adafruit_SSD1306
 		
