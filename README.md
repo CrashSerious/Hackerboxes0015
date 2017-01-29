@@ -51,7 +51,7 @@ Matrix Keyboard 4x4
 	Matrix Pin-out
 	pins (*Numbered top to bottom, *pins on the left)
 
-			        4*      3*      2*      1*
+			           4*      3*      2*      1*
 		|p|  	5*     SW1     SW2     SW3     SW4
 		|i|1*					
 		|n|2*					
